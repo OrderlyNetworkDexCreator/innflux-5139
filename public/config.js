@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/sarthak_1806",
   "VITE_SEO_SITE_NAME": "asterliquid",
   "VITE_SEO_SITE_DESCRIPTION": "aster but hyper and liquid on orderly",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/innflux-5139/",
+  "VITE_SEO_SITE_URL": "https://asterliquid.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@sarthak_1806",
